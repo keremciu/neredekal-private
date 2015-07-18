@@ -1,0 +1,18 @@
+[
+    {
+        "target_repo"       : ["/Users/keremsevencan/Documents/Macellan/neredekal/interface"],
+        "target_email"      : ["kerem@ritmix.org"],
+        "dummy_repo"        : "/Users/keremsevencan/fakerepo",
+        "dummy_repo_data"   : "/Users/keremsevencan/fakerepo/data",
+        "dummy_email"       : "kerem@ritmix.org",
+        "dummy_name"        : "Kerem Sevencan",
+        "dummy_readme"      : "This public repository reflects the commits from a private repo (minus the actual code)",
+        "dummy_ext"         : ".php",
+        "dummy_code"        : "'use strict';",
+        "hide_commits"      : false,
+        "random_file_name"  : false,
+        "auto_push"         : true,
+        "force"             : false,
+        "remote"            : "https://github.com/keremciu/neredekal-private"
+    }
+]
